@@ -5,7 +5,7 @@
 This project implements a scalable movie recommender system using collaborative filtering techniques. The system provides personalized movie recommendations to users based on their historical interactions and preferences.
 
 ## Demo
-<video src=" https://github.com/Nitin1-singh/movie-ai/assets/148739561/393d9d6e-d816-46a1-98d2-fd555f3cc04d" width="400px" height="300px" controls>
+<video src="https://github.com/Nitin1-singh/movie-ai/assets/148739561/393d9d6e-d816-46a1-98d2-fd555f3cc04d" width="400px" height="300px" controls>
 </video>
 
 <!-- ## Features
